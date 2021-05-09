@@ -5,4 +5,4 @@ htmlToPDF is a wordpress plugIn used to transform a page into a pdf file. You ca
 Use:
 
 for unique page: add the shortcode "htmlToPDF"
-for multiple page: add the shortcode "liste_pages"
+for multiple pages: add the shortcode "liste_pages"
